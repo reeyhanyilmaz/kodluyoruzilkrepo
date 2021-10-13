@@ -3,7 +3,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ![Repo resim](assets/indir.jpg)
 
-# Installation 
+## Installation 
 Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)  
 
 ```
@@ -11,7 +11,7 @@ git clone https://github.com/Reeyhanyilmaz/kodluyoruzilkrepo.git
 
 ```
 
-# Usage 
+## Usage 
 Projeyi klonladıktan sonra Visual Studio Code proğramını açınız. 
 Linux için:
  
@@ -21,7 +21,7 @@ Linux için:
 
  ```
 
- # Contributing 
+ ## Contributing 
  Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız. 
- # License 
+ ## License 
  [MIT](https://choosealicense.com/licenses/mit/)
